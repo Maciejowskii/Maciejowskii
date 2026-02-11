@@ -19,8 +19,6 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 - ⚡ Fun fact: Gram w szachy w wolnych chwilach.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Maciejowskii)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciejowskii&layout=donut&theme=radical&hide_border=true&langs_count=7)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Maciejowskii&theme=onedark&no-frame=false&qualify_id=1&column=7&margin-w=15&margin-h=15)
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | Database | DevOps/Tools |
@@ -29,9 +27,9 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 | Tailwind CSS, HTML/CSS/JS | REST APIs, AI Agents | pgAdmin | Linux/Ubuntu, VS Code [cite:1] |
 
 ## ✨ Polecane projekty
-[[Katalogo](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=katalogo&theme=radical)](https://github.com/Maciejowskii/katalogo) – Polska platforma katalogu firm z multi-tenant i AI contentem.
+[Katalogo](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=katalogo&theme=radical)(https://github.com/Maciejowskii/katalogo) – Polska platforma katalogu firm z multi-tenant i AI contentem.
 
-[[Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical)]– Agencja marketingowa z Next.js i zaawansowanym designem.
+[Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical)– Agencja marketingowa z Next.js i zaawansowanym designem.
 
 Inne: KubusPozyczki (pożyczki), QuickPick (e-commerce). [cite:1][cite:2][cite:4]
 
