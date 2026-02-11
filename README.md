@@ -19,8 +19,8 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 - ⚡ Fun fact: Gram w szachy w wolnych chwilach.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Maciejowskii)
-![trophy](https://github-profile-trophy.vercel.app/?username=Maciejowskii&theme=radical&no-frame=true&margin-w=4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciejowskii&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciejowskii&layout=donut&theme=radical&hide_border=true&langs_count=7)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Maciejowskii&theme=onedark&no-frame=false&qualify_id=1&column=7&margin-w=15&margin-h=15)
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | Database | DevOps/Tools |
