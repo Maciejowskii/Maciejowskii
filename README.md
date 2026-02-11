@@ -14,10 +14,10 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 
 ## 🚀 O mnie
 - 🔭 Aktualnie pracuję nad: Zaawansowanymi systemami multi-tenant i automatyzacją danych dla Katalogo.
-- 🌱 Uczę się: Zaawansowane AI integration, Prisma ORM i systemy płatności (Stripe/Przelewy24).
+- 🌱 Uczę się: Zaawansowane AI integration, Prisma ORM.
 - 💬 Pytaj o: Architekturę full-stack, deployment na OVH VPS, optymalizacja SEO i bazy danych.
 - 📫 Kontakt: [m.tyra@digitay.pl](mailto:m.tyra@digitay.pl) lub [LinkedIn](https://www.linkedin.com/in/maciejtyra/).
-- ⚡ Fun fact: Przygotowuję się do egzaminu INF.04, grając w szachy na Lichess. [cite:1][user-information]
+- ⚡ Fun fact: Gram w szachy w wolnych chwilach.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciejowskii&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciejowskii&layout=compact&theme=radical&hide_border=true)
