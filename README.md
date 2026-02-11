@@ -27,9 +27,9 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 | Tailwind CSS, HTML/CSS/JS | REST APIs, AI Agents | pgAdmin | Linux/Ubuntu, VS Code [cite:1] |
 
 ## ✨ Polecane projekty
-[Katalogo](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=katalogo&theme=radical)(https://github.com/Maciejowskii/katalogo) – Polska platforma katalogu firm z multi-tenant i AI contentem.
+[Katalogo](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=katalogo&theme=radical) – Polska platforma katalogu firm z multi-tenant i AI contentem.
 
-[Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical)– Agencja marketingowa z Next.js i zaawansowanym designem.
+[Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical) – Agencja marketingowa z Next.js i zaawansowanym designem.
 
 Inne: KubusPozyczki (pożyczki), QuickPick (e-commerce). [cite:1][cite:2][cite:4]
 
