@@ -16,7 +16,7 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 - 🔭 Aktualnie pracuję nad: Zaawansowanymi systemami multi-tenant i automatyzacją danych dla Katalogo.
 - 🌱 Uczę się: Zaawansowane AI integration, Prisma ORM i systemy płatności (Stripe/Przelewy24).
 - 💬 Pytaj o: Architekturę full-stack, deployment na OVH VPS, optymalizacja SEO i bazy danych.
-- 📫 Kontakt: [email@example.com](mailto:email@example.com) lub LinkedIn.
+- 📫 Kontakt: [m.tyra@digitay.pl](mailto:m.tyra@digitay.pl) lub [LinkedIn](https://www.linkedin.com/in/maciejtyra/).
 - ⚡ Fun fact: Przygotowuję się do egzaminu INF.04, grając w szachy na Lichess. [cite:1][user-information]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciejowskii&show_icons=true&theme=radical&hide_border=true)
@@ -31,9 +31,9 @@ Full-stack developer z 7+ latami doświadczenia w budowaniu skalowalnych aplikac
 ## ✨ Polecane projekty
 [![Katalogo](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=katalogo&theme=radical)](https://github.com/Maciejowskii/katalogo) – Polska platforma katalogu firm z multi-tenant i AI contentem.
 
-[![Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical)](https://github.com/Maciejowskii/digitay) – Agencja marketingowa z Next.js i zaawansowanym designem.
+[![Digitay](https://github-readme-stats.vercel.app/api/pin/?username=Maciejowskii&repo=digitay&theme=radical)]\– Agencja marketingowa z Next.js i zaawansowanym designem.
 
-Inne: KubusPozyczki (pożyczki), QuickPick (e-commerce MVP). [cite:1][cite:2][cite:4]
+Inne: KubusPozyczki (pożyczki), QuickPick (e-commerce). [cite:1][cite:2][cite:4]
 
 ## 📈 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Maciejowskii&theme=radical&no-frame=true&no-bg=true)
