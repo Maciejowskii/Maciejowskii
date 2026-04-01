@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Tyra</h1>
 <h3 align="center">Full-stack developer with over 7 years of experience building scalable web applications. I specialize in Python/Django, Next.js/React/TS, PostgreSQL, and DevOps (Docker, VPS, Coolify). Creator of business platforms such as Katalogo.pl and Digitay.pl.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejowskii&label=Profile%20views&color=009dff&style=flat" alt="maciejowskii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maciejowskii" alt="maciejowskii" /></a> </p>
-
 - 🔭 I’m currently working on [Advanced multi-tenant systems and data automation for Katalogo.](https://katalogo.pl/)
 
 - 🌱 I’m currently learning **advanced TypeScript, Better Auth, multi-tenant architecture, and modern DevOps practices.**
